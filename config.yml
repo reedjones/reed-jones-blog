@@ -11,7 +11,7 @@ author: Arnaud Ligny
 description: "The personal website of reedjones "
 date:
   format: j F Y
-  timezone: "United States/Los Angeles "
+  timezone: "America/Los_Angeles "
 hyde:
   sidebar:
     sticky: true
